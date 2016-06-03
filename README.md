@@ -1,2 +1,2 @@
-# youtubetheme
-This is materialize YouTube theme
+# YouTube Materialize Theme
+This is a YouTube theme build with materialize CSS.
